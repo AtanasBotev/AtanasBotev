@@ -49,9 +49,10 @@
 
 <h2>My stats</h2> 
 
+  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasbotev&" alt="atanasbotev" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanasbotev&show_icons=true&locale=en&layout=compact" alt="atanasbotev" /></p>
+  
   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=atanasbotev)](https://github.com/anuraghazra/github-readme-stats)
-  <span><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasbotev&" alt="atanasbotev" /></span>
-  <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=atanasbotev&show_icons=true&locale=en&layout=compact" alt="atanasbotev" /></span>
   
 <!--TROPHY EARNED SECTION -->
 
