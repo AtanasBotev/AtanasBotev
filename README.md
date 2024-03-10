@@ -7,7 +7,7 @@
   <a href="https://github.com/AtanasBotev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="AtanasBotev" height="40" width="30" /></a>&nbsp;
   <a href="-------------------"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
 </p>
-   <img align="right" alt="Coding" width="250" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR3dG1hdHF0ZDl3OTNtdm8xMTJxbzRjbG9yc3AyZXUybjBrcG00MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.webp">
+<img align="right" alt="Coding" width="250" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR3dG1hdHF0ZDl3OTNtdm8xMTJxbzRjbG9yc3AyZXUybjBrcG00MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VbnUQpnihPSIgIXuZv/giphy.webp">
 
 <!-- ABOUT ME SECTION -->
 
